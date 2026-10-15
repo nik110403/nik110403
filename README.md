@@ -1,6 +1,6 @@
 # Nik Khosravipour
 
-I study monetary economics with macroeconomic data and reproducible pipelines in R and Python. Each repository below reproduces the figures and tables of one paper or note from raw data.
+My research focuses on monetary economics using macroeconomic data and reproducible pipelines in R and Python. Each repository below reproduces the figures and tables of one paper or note from raw data.
 
 ## Replication packages
 
