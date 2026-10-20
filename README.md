@@ -11,6 +11,7 @@ My research focuses on monetary economics using macroeconomic data and reproduci
 | [argentina-monetary-deepdive](https://github.com/nik110403/argentina-monetary-deepdive) | Monthly inflation fell from 25.5% (Dec 2023) to 2.1% (May 2026) under Milei. |
 | [fed-reaction-note](https://github.com/nik110403/fed-reaction-note) | The 2-year Treasury yield repriced four times in four weeks in June 2026. |
 | [treasury-buyback-note](https://github.com/nik110403/treasury-buyback-note) | $15.265bn of long-end Treasury buybacks, September to October 2026, replayed from frozen inputs. |
+| [usda-august-corn-misses](https://github.com/nik110403/usda-august-corn-misses) | An 80% band built from USDA's past August corn-yield misses covered 21 of 22 seasons (2004–2025): too wide, about 4 points of it from the estimator itself. |
 | [oecd-growth-thesis](https://github.com/nik110403/oecd-growth-thesis) | Across 24 OECD economies, growth relationships did not measurably change after 2008. |
 
 ## Tools
