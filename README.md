@@ -16,7 +16,7 @@ My research focuses on monetary economics using macroeconomic data and reproduci
 
 ## Tools
 
-- [research-kit](https://github.com/nik110403/research-kit): Claude Code plugin for source-grounded research. Search, PDF to markdown, notes with verified quotes, review, paper build.
+- [Provenote](https://github.com/nik110403/provenote) (formerly research-kit): Claude Code plugin for source-grounded research. Search, PDF to markdown, notes with verified quotes, review, paper build.
 
 ## Elsewhere
 
